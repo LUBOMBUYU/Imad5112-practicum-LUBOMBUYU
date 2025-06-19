@@ -108,6 +108,7 @@ This application provides a simple and effective way for users to keep track of 
 *(Embed 2-4 key screenshots of your app here. For example: Main Menu, Add Song Screen, View Playlist Screen.)*
 
 **Example:**
+
 `![Image](https://github.com/user-attachments/assets/fa910c34-0923-4998-8c3c-d2c2007f365d)
 `![Image](https://github.com/user-attachments/assets/8aaade73-e37e-480f-9477-fe94fa9af629)
 
