@@ -28,5 +28,8 @@ class ViewPlaylist : AppCompatActivity() {
             val intent = Intent(this, MainActivity::class.java)
             startActivity(intent)
         }
+
+        // Displaying code in table
+
     }
 }
