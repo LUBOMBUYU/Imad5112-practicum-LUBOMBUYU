@@ -2,9 +2,8 @@
 
 My Music Playlist App is a mobile application that allows users to create, manage, and view their personal music playlists. Users can add songs with details like artist name, ratings, and comments, and then view their compiled playlist.
 
-🔗 **Links**
-*   **GitHub Repository:** [[YOUR_MUSIC_APP_REPO_LINK_HERE]](https://github.com/VCWVL/imad5112-practicum-LUBOMBUYU.git)  <!-- Make sure to replace this with the actual link -->
-*  
+
+
 
 ---
 
@@ -105,7 +104,7 @@ This application provides a simple and effective way for users to keep track of 
 
 🖼️ **App Screenshots**
 
-*(Embed 2-4 key screenshots of your app here. For example: Main Menu, Add Song Screen, View Playlist Screen.)*
+
 
 **Example:**
 
