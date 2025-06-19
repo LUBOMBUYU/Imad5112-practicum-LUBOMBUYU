@@ -110,6 +110,7 @@ This application provides a simple and effective way for users to keep track of 
 **Example:**
 
 `![Image](https://github.com/user-attachments/assets/fa910c34-0923-4998-8c3c-d2c2007f365d)
+
 `![Image](https://github.com/user-attachments/assets/8aaade73-e37e-480f-9477-fe94fa9af629)
 
 
